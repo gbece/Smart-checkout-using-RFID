@@ -1,0 +1,4 @@
+Descripcion,Codigo de Articulo,Precio Articulo,Esta pago,Codigo RFID
+Tarjeta,0,20,No,"bytearray(b'K\x01\x01\x00\x04\x08\x04\xc5\x0b""\x1b')"
+Sony Rojo,1,12,No,"bytearray(b'K\x01\x01\x00D\x00\x07\x04Q\xa2\xd22,\x80')"
+Llavero,0,15,No,bytearray(b'K\x01\x01\x00\x04\x08\x04\x95\x8f?\xbe')
